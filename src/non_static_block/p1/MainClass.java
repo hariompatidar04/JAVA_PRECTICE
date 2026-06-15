@@ -1,4 +1,4 @@
-package non_static_block;
+package non_static_block.p1;
 
 public class MainClass
 {

@@ -1,4 +1,4 @@
-package non_static_block;
+package non_static_block.p1;
 
 public class AttributeInitialization
 {
@@ -21,5 +21,7 @@ public class AttributeInitialization
     public void setSalary(double salary) {
         this.salary = salary;
     }
+
+
 
 }
